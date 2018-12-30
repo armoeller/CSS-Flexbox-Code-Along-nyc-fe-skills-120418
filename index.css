@@ -13,8 +13,8 @@ header {
 /*#92C9D5*/
 main {
   display: flex;
-  flex-flow: row wrap;
-  align-items: stretch;
+  flex-flow: row;
+  align-items: baseline;
   justify-content: center;
   background-color: #FBFFF4;
   width: 100%;
@@ -29,7 +29,7 @@ footer {
 
 .item {
   height: 100px;
-  /*width: 100px;*/
+  width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
 }
