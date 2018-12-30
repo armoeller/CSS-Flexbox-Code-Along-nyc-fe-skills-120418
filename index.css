@@ -36,7 +36,7 @@ footer {
 
 .setWidth {
   flex-basis: 100px;
-  flex-grow: 0;
+  flex-grow: 1;
 }
 
 .flex-container {
