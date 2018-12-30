@@ -37,6 +37,7 @@ footer {
 .setWidth {
   flex-basis: 100px;
   flex-grow: 1;
+  background-color: #FCF2EC;
 }
 
 .flex-container {
