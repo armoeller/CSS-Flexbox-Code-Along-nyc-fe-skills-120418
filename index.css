@@ -33,7 +33,7 @@ footer {
   margin: 5px;
   background-color: #FCF2EC;
   flex-basis: content;
-  flex-grow: 100vw;
+  flex-grow: 100;
 }
 
 .flex-container {
