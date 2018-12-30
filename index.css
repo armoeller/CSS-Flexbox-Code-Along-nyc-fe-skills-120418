@@ -14,7 +14,7 @@ header {
 main {
   display: flex;
   flex-flow: row;
-  align-items: baseline;
+  align-items: center;
   justify-content: center;
   background-color: #FBFFF4;
   width: 100%;
