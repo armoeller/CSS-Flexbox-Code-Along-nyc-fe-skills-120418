@@ -15,7 +15,6 @@ main {
   display: flex;
   flex-flow: row;
   align-items: center;
-  align-content: space-between;
   justify-content: center;
   background-color: #FBFFF4;
   width: 100%;
@@ -40,4 +39,5 @@ footer {
   width: 100vw;
   height: 100vh;
   flex-direction: column;
+  flex-basis: 100px;
 }
